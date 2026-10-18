@@ -1,0 +1,2 @@
+﻿Instance,Size_NxN,Solver,Num_Vars,Num_Constraints,Modeling_Time_s,Solving_Time_s,Total_Time_s,Status,CP_Status,Is_Valid,Threads,Timeout_s
+sudoku_9x9.txt,9x9,cp_sat,81,57,0.001277000,0.004969601,0.006498000,SAT,OPTIMAL,True,1,30.0

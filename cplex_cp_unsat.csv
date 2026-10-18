@@ -1,0 +1,3 @@
+﻿Instance,Size_NxN,Solver,Num_Vars,Num_Constraints,Modeling_Time_s,Solving_Time_s,Engine_Solve_Time_s,Total_Time_s,Status,CP_Status,Stop_Cause,Is_Valid,Threads,Timeout_s,Error
+unsat_duplicate.txt,9x9,cplex_cp,81,58,0.000972300,0.018283600,0.001000000,0.019582300,UNSAT,Infeasible,SearchHasNotBeenStopped,,1,30.0,
+unsat_no_duplicates.txt,9x9,cplex_cp,81,58,0.000986000,0.020158100,0.002000000,0.021367700,UNSAT,Infeasible,SearchHasNotBeenStopped,,1,30.0,

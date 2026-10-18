@@ -1,0 +1,50 @@
+﻿Instance,Size_NxN,Solver,Num_Vars,Num_Constraints,Modeling_Time_s,Solving_Time_s,Engine_Solve_Time_s,Total_Time_s,Status,CP_Status,Stop_Cause,Is_Valid,Threads,Timeout_s,Error
+sudoku_9x9.txt,9x9,cplex_cp,81,57,0.000979000,0.021297400,0.003000000,0.022609800,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9.txt,9x9,cplex_cp,81,57,0.000933200,0.022087700,0.002000000,0.023359700,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9.txt,9x9,cplex_cp,81,57,0.001004700,0.021478700,0.003000000,0.022913201,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16.txt,16x16,cplex_cp,256,189,0.001853100,0.026738999,0.004000000,0.029191400,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16.txt,16x16,cplex_cp,256,189,0.001802300,0.027880900,0.004000000,0.030320500,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16.txt,16x16,cplex_cp,256,189,0.001903100,0.025390799,0.003000000,0.027772600,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25.txt,25x25,cplex_cp,625,421,0.003564300,0.057852400,0.023000000,0.062217699,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25.txt,25x25,cplex_cp,625,421,0.003586700,0.050827499,0.024000000,0.055367800,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25.txt,25x25,cplex_cp,625,421,0.003578200,0.056855501,0.027000000,0.061402501,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_36x36.txt,36x36,cplex_cp,1296,826,0.006325000,0.048507900,,0.055062699,LICENSE_LIMIT,ERROR,,,1,30.0,"Solver error: Problem size limit exceeded.
+CP Optimizer Community Edition solves problems with search spaces up to 2^1000.
+Unrestricted version options (including academia) at https://ibm.biz/error1016
+"
+sudoku_9x9_2.txt,9x9,cplex_cp,81,56,0.000937500,0.028929100,0.003000000,0.030271000,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_2.txt,9x9,cplex_cp,81,56,0.001110100,0.023221700,0.003000000,0.024721600,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_2.txt,9x9,cplex_cp,81,56,0.000957101,0.023227000,0.003000000,0.024527901,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_3.txt,9x9,cplex_cp,81,54,0.000913100,0.022736500,0.002000000,0.024058600,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_3.txt,9x9,cplex_cp,81,54,0.000934700,0.023213200,0.002000000,0.024550300,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_3.txt,9x9,cplex_cp,81,54,0.001278999,0.026161300,0.003000000,0.027783600,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_4.txt,9x9,cplex_cp,81,55,0.001156900,0.021811800,0.003000000,0.023518801,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_4.txt,9x9,cplex_cp,81,55,0.000998200,0.021530899,0.002000000,0.023067900,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_9x9_4.txt,9x9,cplex_cp,81,55,0.000906700,0.021033800,0.003000000,0.022317900,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_2.txt,16x16,cplex_cp,256,189,0.001800300,0.036743600,0.003000000,0.039186300,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_2.txt,16x16,cplex_cp,256,189,0.001815900,0.024494000,0.003000000,0.026944500,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_2.txt,16x16,cplex_cp,256,189,0.001869500,0.025397900,0.003000000,0.027924600,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_3.txt,16x16,cplex_cp,256,163,0.001699600,0.025168800,0.004000000,0.027505400,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_3.txt,16x16,cplex_cp,256,163,0.001761500,0.027042200,0.004000000,0.029468800,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_3.txt,16x16,cplex_cp,256,163,0.001704200,0.024668300,0.004000000,0.026829300,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_4.txt,16x16,cplex_cp,256,138,0.001806800,0.025609700,0.004000000,0.028217999,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_4.txt,16x16,cplex_cp,256,138,0.001615700,0.026842200,0.004000000,0.029116101,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_16x16_4.txt,16x16,cplex_cp,256,138,0.001829100,0.027535900,0.004000000,0.030186500,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25_2.txt,25x25,cplex_cp,625,419,0.003445900,0.033316300,0.005000000,0.037781300,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25_2.txt,25x25,cplex_cp,625,419,0.003483000,0.033478500,0.005000000,0.038248501,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25_2.txt,25x25,cplex_cp,625,419,0.003523599,0.031199300,0.005000000,0.035574201,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25_3.txt,25x25,cplex_cp,625,356,0.003258199,6.957487199,6.928000000,6.961970000,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25_3.txt,25x25,cplex_cp,625,356,0.003294000,6.924476200,6.896000000,6.928778500,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25_3.txt,25x25,cplex_cp,625,356,0.003231700,6.820551501,6.791000000,6.824959500,SAT,Feasible,SearchHasNotBeenStopped,True,1,30.0,
+sudoku_25x25_4.txt,25x25,cplex_cp,625,294,0.003081200,0.028384000,,0.031702000,LICENSE_LIMIT,ERROR,,,1,30.0,"Solver error: Problem size limit exceeded.
+CP Optimizer Community Edition solves problems with search spaces up to 2^1000.
+Unrestricted version options (including academia) at https://ibm.biz/error1016
+"
+sudoku_25x25_4.txt,25x25,cplex_cp,625,294,0.003021300,0.030026000,,0.033287200,LICENSE_LIMIT,ERROR,,,1,30.0,"Solver error: Problem size limit exceeded.
+CP Optimizer Community Edition solves problems with search spaces up to 2^1000.
+Unrestricted version options (including academia) at https://ibm.biz/error1016
+"
+sudoku_25x25_4.txt,25x25,cplex_cp,625,294,0.003025000,0.031685500,,0.034957300,LICENSE_LIMIT,ERROR,,,1,30.0,"Solver error: Problem size limit exceeded.
+CP Optimizer Community Edition solves problems with search spaces up to 2^1000.
+Unrestricted version options (including academia) at https://ibm.biz/error1016
+"

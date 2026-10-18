@@ -1,0 +1,3 @@
+﻿Instance,Size_NxN,Solver,Num_Vars,Num_Constraints,Modeling_Time_s,Solving_Time_s,Total_Time_s,Status,Gurobi_Status,Is_Valid,Threads,Timeout_s,Error
+unsat_duplicate.txt,9x9,gurobi,729,355,0.004767900,0.000914800,0.006638500,UNSAT,INFEASIBLE,,1,30.0,
+unsat_no_duplicates.txt,9x9,gurobi,729,355,0.005521600,0.001088100,0.007722200,UNSAT,INFEASIBLE,,1,30.0,

@@ -1,0 +1,3 @@
+﻿Instance,Size_NxN,Solver,Num_Vars,Num_Constraints,Modeling_Time_s,Solving_Time_s,Total_Time_s,Status,CP_Status,Is_Valid,Threads,Timeout_s
+unsat_duplicate.txt,9x9,cp_sat,81,58,0.001710600,0.001286500,0.003059899,UNSAT,INFEASIBLE,,1,30.0
+unsat_no_duplicates.txt,9x9,cp_sat,81,58,0.001137801,0.001343600,0.002566900,UNSAT,INFEASIBLE,,1,30.0

@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.zip
+*.aux
+*.log
+*.out
+*.toc
+*.abs
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv

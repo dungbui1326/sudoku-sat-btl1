@@ -1,0 +1,10 @@
+﻿Instance,Size_NxN,Solver,Encoding,Num_Vars,Num_Clauses,Encoding_Time_s,Solving_Time_s,Total_Time_s,Status,Is_Valid
+sudoku_25x25.txt,25x25,cadical153,seqcounter,75625,180346,0.169287100,0.006728500,0.856687600,SAT,True
+sudoku_25x25.txt,25x25,glucose4,seqcounter,75625,180346,0.200759300,0.009578900,0.862661000,SAT,True
+sudoku_25x25.txt,25x25,minisat22,seqcounter,75625,180346,0.174733100,0.007425699,0.765335100,SAT,True
+sudoku_25x25.txt,25x25,cadical153,seqcounter,75625,180346,0.267589800,0.004686301,0.894440700,SAT,True
+sudoku_25x25.txt,25x25,glucose4,seqcounter,75625,180346,0.225251299,0.010494600,0.841778700,SAT,True
+sudoku_25x25.txt,25x25,minisat22,seqcounter,75625,180346,0.167119799,0.008468100,0.749690400,SAT,True
+sudoku_25x25.txt,25x25,cadical153,seqcounter,75625,180346,0.187520600,0.005554300,0.825741800,SAT,True
+sudoku_25x25.txt,25x25,glucose4,seqcounter,75625,180346,0.265834800,0.010316799,0.887088300,SAT,True
+sudoku_25x25.txt,25x25,minisat22,seqcounter,75625,180346,0.264347600,0.007756300,0.867053100,SAT,True

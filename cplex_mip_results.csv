@@ -1,0 +1,2 @@
+﻿Instance,Size_NxN,Solver,Num_Vars,Num_Constraints,Modeling_Time_s,Solving_Time_s,Total_Time_s,Status,CPLEX_Status,Is_Valid,Threads,Timeout_s,Error
+sudoku_9x9.txt,9x9,cplex_mip,729,354,0.027111700,0.006114800,0.034266100,SAT,integer optimal solution (101),True,1,30.0,

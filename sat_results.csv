@@ -1,0 +1,11 @@
+﻿Instance,Size_NxN,Solver,Encoding,Num_Vars,Num_Clauses,Encoding_Time_s,Solving_Time_s,Total_Time_s,Status,Is_Valid
+demo_9x9,9x9,cadical153,seqcounter,3321,7806,0.011254200,0.000105000,0.212847400,SAT,True
+sudoku_25x25.txt,25x25,glucose4,binary,28125,315346,0.258068800,0.009446600,1.176127000,SAT,True
+sudoku_36x36.txt,36x36,cadical153,product,108864,534654,0.463473900,0.118581400,2.177886399,SAT,True
+sudoku_36x36.txt,36x36,cadical153,product,108864,534670,0.466360500,0.018619999,2.069193000,SAT,True
+unsat_duplicate.txt,9x9,glucose4,seqcounter,3321,7807,0.011046001,0.000878400,0.202802200,UNSAT,
+unsat_no_duplicates.txt,9x9,glucose4,seqcounter,3321,7807,0.010964600,0.000738500,0.193390900,UNSAT,
+sudoku_9x9.txt,9x9,cadical153,seqcounter,3321,7806,0.011022900,0.000090799,0.201608400,SAT,True
+unsat_no_duplicates.txt,9x9,glucose4,product,2673,8131,0.012267200,0.000456700,0.191903900,UNSAT,
+sudoku_9x9.txt,9x9,cadical153,seqcounter,3321,7806,0.011303600,0.000116300,0.208561700,SAT,True
+unsat_no_duplicates.txt,9x9,glucose4,product,2673,8131,0.012634301,0.000580800,0.195250301,UNSAT,
